@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            "Hello World, Welcome to the team"
+            "Hello World, Welcome to the team CRM DEV"
         }
     }
 }
